@@ -1,0 +1,6 @@
+864 550 pickle
+-32 550 sausage
+864 102 pickle 
+-32 102 sausage
+864 550 sausage
+-32 550 sausage

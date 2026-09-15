@@ -1,0 +1,6 @@
+864 806 pickle
+-32 806 egg
+864 102 pickle 
+-32 102 egg
+864 806 egg
+-32 806 egg

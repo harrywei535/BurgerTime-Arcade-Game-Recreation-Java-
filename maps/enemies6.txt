@@ -1,0 +1,6 @@
+864 614 pickle
+-32 550 egg
+864 486 sausage
+-32 166 pickle
+864 614 egg
+-32 550 sausage

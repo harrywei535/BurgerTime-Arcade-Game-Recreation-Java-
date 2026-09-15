@@ -1,0 +1,16 @@
+255 82 TopBun
+447 82 TopBun
+259 146 Tomato
+451 146 Tomato
+255 210 Lettuce
+455 210 Patty
+263 274 Patty
+447 274 Lettuce
+255 338 Lettuce
+455 338 Patty
+263 402 Patty
+451 402 Tomato
+259 466 Tomato
+447 466 Lettuce
+255 530 BottomBun
+447 530 BottomBun

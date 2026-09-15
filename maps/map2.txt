@@ -1,0 +1,16 @@
+63 82 TopBun
+255 82 TopBun
+447 82 TopBun
+639 82 TopBun
+63 146 Lettuce
+71 214 Cheese
+63 338 BottomBun
+263 150 Cheese
+255 274 Lettuce
+255 594 BottomBun
+455 406 Cheese
+447 530 Lettuce
+447 594 BottomBun
+639 210 Lettuce
+647 278 Cheese
+639 338 BottomBun

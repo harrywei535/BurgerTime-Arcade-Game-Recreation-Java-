@@ -1,0 +1,4 @@
+864 678 egg
+-32 678 sausage
+864 102 sausage
+-32 102 sausage

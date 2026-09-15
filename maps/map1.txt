@@ -1,0 +1,16 @@
+255 82 TopBun
+447 82 TopBun
+639 82 TopBun
+63 210 TopBun
+447 210 Lettuce
+639 210 Lettuce
+63 338 Lettuce
+255 402 Lettuce
+647 338 Patty
+455 402 Patty
+71 530 Patty
+263 530 Patty
+639 466 BottomBun
+255 658 BottomBun
+447 658 BottomBun
+63 658 BottomBun
